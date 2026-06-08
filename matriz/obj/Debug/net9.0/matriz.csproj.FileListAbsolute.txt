@@ -1,0 +1,14 @@
+C:\Users\1646186\Desktop\matriz\bin\Debug\net9.0\matriz.exe
+C:\Users\1646186\Desktop\matriz\bin\Debug\net9.0\matriz.deps.json
+C:\Users\1646186\Desktop\matriz\bin\Debug\net9.0\matriz.runtimeconfig.json
+C:\Users\1646186\Desktop\matriz\bin\Debug\net9.0\matriz.dll
+C:\Users\1646186\Desktop\matriz\bin\Debug\net9.0\matriz.pdb
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.AssemblyInfoInputs.cache
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.AssemblyInfo.cs
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.csproj.CoreCompileInputs.cache
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.dll
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\refint\matriz.dll
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.pdb
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\matriz.genruntimeconfig.cache
+C:\Users\1646186\Desktop\matriz\obj\Debug\net9.0\ref\matriz.dll
